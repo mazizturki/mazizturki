@@ -7,9 +7,10 @@
 ---
 
 ### 🚀 **About Me**
-
-💻 **Passionate About Solving Real-World Problems with Technology**  
-I'm currently pursuing a degree in **Business Computing** at **ESSECT**. I aim to combine technical expertise with strategic insights to create impactful digital solutions. My mission is to **drive innovation** 🌟, **spark progress** 🚀, and **make a difference** in the digital world 🌐.
+- Business Computing student at **ESSECT** 📍  
+- Passionate about solving real-world problems with technology 💻
+- Focused on innovation 🌟 and progress 🚀
+ <br>
 📫 How to reach me: **medaziz.turki@gmail.com**  
 ---
 
