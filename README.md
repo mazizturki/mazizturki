@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hi <span class="wave">👋</span>, I'm <span style="color: #7A82FF;">Mohamed Aziz TURKI</span>
+  <span class="wave">👋</span>, I'm <span style="color: #7A82FF;">Mohamed Aziz TURKI</span>
 </h1>
 
 <h3 align="center">Business Computing Student 📍 ESSECT, Tunisia</h3>
@@ -73,24 +73,3 @@ I'm currently pursuing a degree in **Business Computing** at **ESSECT**. I aim t
 <p align="center">
   🚀 *"Let's innovate and create a better digital future!"* 🚀
 </p>
-
----
-
-<style>
-  .wave {
-    animation: wave-animation 2s infinite;
-    transform-origin: 70% 70%;
-    display: inline-block;
-  }
-
-  @keyframes wave-animation {
-    0% { transform: rotate(0deg); }
-    10% { transform: rotate(14deg); }
-    20% { transform: rotate(-8deg); }
-    30% { transform: rotate(14deg); }
-    40% { transform: rotate(-4deg); }
-    50% { transform: rotate(10deg); }
-    60% { transform: rotate(0deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
