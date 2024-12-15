@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi<span class="wave">👋</span>, I'm <span style="color: #7A82FF;">Mohamed Aziz TURKI</span>
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand">, I'm <span style="color: #7A82FF;">Mohamed Aziz TURKI</span>
 </h1>
 
 <h3 align="center">Business Computing Student<br> 📍 ESSECT, Tunisia</h3>
@@ -11,7 +11,7 @@
 💻 **Passionate About Solving Real-World Problems with Technology**  
 
 I'm currently pursuing a degree in **Business Computing** at **ESSECT**. I aim to combine technical expertise with strategic insights to create impactful digital solutions. My mission is to **drive innovation** 🌟, **spark progress** 🚀, and **make a difference** in the digital world 🌐.
-
+📫 How to reach me: **medaziz.turki@gmail.com**  
 ---
 
 ### 🌐 **Connect with Me**
