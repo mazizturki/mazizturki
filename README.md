@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7A82FF&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub!;I'm+Mohamed+Aziz+TURKI;Business+Computing+Student;Passionate+about+Technology+and+Innovation;Let's+build+something+amazing!+%F0%9F%92%BB" />
-</p>
-
 <h1 align="center">
-  <span class="wave">👋</span>, I'm <span style="color: #7A82FF;">Mohamed Aziz TURKI</span>
+  Hi<span class="wave">👋</span>, I'm <span style="color: #7A82FF;">Mohamed Aziz TURKI</span>
 </h1>
 
 <h3 align="center">Business Computing Student<br> 📍 ESSECT, Tunisia</h3>
@@ -19,7 +15,6 @@ I'm currently pursuing a degree in **Business Computing** at **ESSECT**. I aim t
 ---
 
 ### 🌐 **Connect with Me**
-
 <p align="center">
   <a href="https://twitter.com/mazizturki" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
