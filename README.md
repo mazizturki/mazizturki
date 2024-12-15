@@ -10,10 +10,9 @@
 - Business Computing student at **ESSECT** 📍  
 - Passionate about solving real-world problems with technology 💻
 - Focused on innovation 🌟 and progress 🚀
- <br>
 📫 How to reach me: **medaziz.turki@gmail.com**  
 ---
-
+<hr>
 ### 🌐 **Connect with Me**
 <p align="center">
   <a href="https://twitter.com/mazizturki" target="_blank">
