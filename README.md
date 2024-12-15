@@ -9,7 +9,7 @@
 ### 🚀 **About Me**
 - Business Computing student at **ESSECT** 📍  
 - Passionate about solving real-world problems with technology 💻
-- Focused on innovation 🌟 and progress 🚀 <br>
+- Focused on innovation 🌟 and progress 🚀 <br><br>
 📫 How to reach me: **medaziz.turki@gmail.com**  
 ---
 ### 🌐 **Connect with Me**
@@ -30,7 +30,7 @@
 ### 🛠️ **Technical Skills**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,php,mysql,oracle,spring" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,js,php,mysql,oracle,html,css" />
 </p>
 
 ---
