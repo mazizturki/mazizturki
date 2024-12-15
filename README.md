@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, I'm Mohamed Aziz TURKI
+  Hi there  waving hand, I'm Mohamed Aziz TURKI
 </h1>
 
 <h3 align="center">
