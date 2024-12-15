@@ -6,7 +6,7 @@
   <span class="wave">👋</span>, I'm <span style="color: #7A82FF;">Mohamed Aziz TURKI</span>
 </h1>
 
-<h3 align="center">Business Computing Student 📍 ESSECT, Tunisia</h3>
+<h3 align="center">Business Computing Student<br> 📍 ESSECT, Tunisia</h3>
 
 ---
 
