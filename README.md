@@ -30,7 +30,7 @@
 ### 🛠️ **Technical Skills**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,c,js,php,laravel,postgresql,mysql,docker,flutter,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,c,js,php,vuejs,laravel,postgresql,mysql,docker,flutter,html,css,bootstrap" />
 </p>
 
 ---
