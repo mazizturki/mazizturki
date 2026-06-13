@@ -2,7 +2,7 @@
 
 # Mohamed Aziz TURKI
 
-**Business Computing Graduate**
+**Business Computing Graduate · ESSECT, Tunisia**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mazizturki)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mazizturki)
@@ -67,7 +67,7 @@ I care about clean architecture, meaningful automation, and shipping things that
 
 ### [OptiX](https://github.com/mazizturki/optix) — FTTH Anomaly Detection Platform
 
-> Intelligent FTTH network anomaly detection platform. Benchmarked Isolation Forest, One-Class SVM, and Elliptic Envelope — selected **Isolation Forest** as the production model based on precision, recall, and inference latency.  
+> Intelligent FTTH network anomaly detection platform. The ML pipeline follows the **CRISP-ML(Q)** methodology — benchmarked Isolation Forest, One-Class SVM, and Elliptic Envelope — selected **Isolation Forest** as the production model based on precision, recall, and inference latency.  
 > Stack: FastAPI · React/TypeScript · Keycloak · PostgreSQL · Redis · MLflow · n8n · Docker
 
 ---
