@@ -124,9 +124,6 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mazizturki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&bg_color=0d1117&icon_color=2F9BE8&text_color=c9d1d9" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazizturki&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=2F9BE8&text_color=c9d1d9" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=mazizturki&theme=tokyonight&hide_border=true&background=0d1117&ring=2F9BE8&fire=ff9f43&currStreakLabel=2F9BE8" alt="GitHub streak"/>
 
 </div>
