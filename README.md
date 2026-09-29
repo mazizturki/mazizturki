@@ -1,19 +1,38 @@
 <div align="center">
 
-# Mohamed Aziz TURKI
+<h1>
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+       width="35px"
+       alt="Waving hand"/>
+  , I'm Mohamed Aziz TURKI
+</h1>
 
-**Software Engineering Student**
+<h3>Software Engineering Student</h3>
 
-Tunis, Tunisia
+<p>📍 Tunis, Tunisia</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mazizturki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mazizturki)
-[![GitHub](https://img.shields.io/badge/GitHub-mazizturki-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mazizturki)
-[![Email](https://img.shields.io/badge/Email-medaziz.turki%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medaziz.turki@gmail.com)
+<a href="https://linkedin.com/in/mazizturki">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/mazizturki">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:medaziz.turki@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=2F9BE8&center=true&vCenter=true&width=760&height=45&lines=Software+Engineering+%7C+Backend+%7C+Data+%26+AI;Building+scalable+and+practical+software;Currently+developing+OptiX+%E2%80%94+FTTH+anomaly+detection" alt="Typing animation"/>
+<br/>
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2F9BE8&center=true&vCenter=true&width=750&height=40&lines=Software+Engineering+%7C+Backend+%7C+Data+%26+AI;Building+scalable+and+practical+software;Currently+developing+OptiX+%E2%80%94+FTTH+anomaly+detection"
+  alt="Typing animation"
+/>
 
 </div>
-
 ---
 
 ## About Me
