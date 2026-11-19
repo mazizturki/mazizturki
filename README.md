@@ -138,7 +138,7 @@ flowchart LR
 - Containerization, infrastructure and production deployment
 
 ---
-
+<!--
 ## GitHub Activity
 
 <div align="center">
@@ -148,7 +148,7 @@ flowchart LR
 </div>
 
 ---
-
+-->
 ## Let's Connect
 
 I'm open to **technical collaborations, freelance projects and opportunities** to build practical software solutions.
